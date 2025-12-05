@@ -1,8 +1,35 @@
-- 👋 Hi, I’m Tom
-- 🏢 I work at Yellow Arrow as a Security Consultant
-- 👀 I’m interested in all sort of code! Eager to learn anything in all sort of branches. 
-- 🌱 I’m currently learning KQL Kusto Query Language
-- 🤖 I love to dive into Cyber Security related news.
-- 💞️ I’m looking to collaborate on projects that contribute to new Microsoft Security products
-- 📫 How to reach me: Send me a message if you have any questions!
-- :computer: I tend to drop some blogs about new experiences on Microsoft solutions on https://Azurewithtom.com
+## 👋 Hi, I'm Tom
+
+### 🏢 Security Consultant @ Yellow Arrow  
+Focused on Microsoft Security, XDR, and cloud-native defense.
+
+---
+
+### 🔐 What I Do
+- Specialize in **Microsoft Defender**, **XDR**, **Sentinel**, and **KQL**
+- Build and refine **detections**, **automations** and **SecOps workflows**
+- Explore and write about the latest in **cyber security** and threat intelligence
+
+---
+
+### 🌱 Currently Learning
+- **Kusto Query Language (KQL)** at an advanced level  
+- Deep-diving into Microsoft security architectures and SOC optimization
+
+---
+
+### 🤝 Collaboration
+I'm open to collaborating on:
+- Community-driven **Microsoft Security projects**  
+- Detection engineering, threat hunting ideas, and learning resources  
+
+---
+
+### 📝 Latest Writing
+I share blogs on Microsoft Security, Defender, Sentinel, and blue team topics:  
+➡️ **https://securitywithtom.com**
+
+---
+
+### 📫 Get in Touch
+Feel free to reach out if you have questions, ideas, or want to work together!
